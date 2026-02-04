@@ -14,8 +14,11 @@
 ### Sur Meta Quest (2/3)
 
 /!\ Controlleurs obligatoires.
+
 Presser la gachette du controlleur de gauche permet de saisir le graphe dans son entièreté pour le déplacer
+
 Déplacer le joystick du controlleur de droite permet de faire apparaitre une roue permettant de faire apparaitre certaines fenêtres devant la caméra.
+
 Attraper un noeud avec le controlleur droite permet de le déplacer.
 
 ## Architecture
@@ -55,10 +58,12 @@ vrephi-stage/
 
 ### Store, Hooks
 Le code permettant le lien entre la logique métier et la vue est situé dans un store. Le store est un singleton contenant à la fois les données, et des fonctions pour les manipuler. L'utilisation d'une de ces fonctions entrainera le re render des composants React les utilisant.
+
 Pour éviter que tous les composants soit re-rendus à chaque changement sur des attributs qu'ils n'utilisent pas, on utilise des hooks. un Hook est simplement un filtre, qui vient récupérer dans le store les élements qu'il veut exposer, un hook s'abonne automatiquement aux variables qu'il suit pour déclencher un re-render dès que besoin.
 
 ### XRComponents et Modifier
 On utilise la librairie uikit pour les interfaces. Dans un soucis de simplicité et d'extensibilité, nous avons créé des composants génériques à réutiliser dans tous les menus, dont des labels, des boutons, ou encore des fenêtres (permettant le déplacement grâce à une handle sur le bas de la fenêtre et la fermeture). 
+
 Tous les composants ont un style par défaut, qui sont définis en haut de chaque fichier. Il est possible de modifier ce style en passant en paramètre un Modifier. Un Modifier est un type représentant une ensemble d'attributs de style (padding, margin, fontColor, backgroundColor...). 
 
 ## Bugs connus
