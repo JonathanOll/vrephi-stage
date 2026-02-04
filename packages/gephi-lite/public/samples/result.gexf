@@ -1,0 +1,1403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns:ns0="http://www.gexf.net/1.2draft" version="1.2">
+  <graph>
+    <attributes>
+      <attribute id="infected" title="infected" type="boolean"/>
+      <attribute id="type" title="type" type="string"/>
+    </attributes>
+    <nodes count="155">
+      <node id="1" label="IN1.05">
+        <attvalues>
+          <attvalue for="type" value="room"/>
+          <attvalue for="infected" value="176579176"/>
+        </attvalues>
+        <color r="0" g="255" b="0"/>
+        <position x="500.0" y="150" z="0.0"/>
+      </node>
+      <node id="2" label="IN1.06">
+        <attvalues>
+          <attvalue for="type" value="room"/>
+          <attvalue for="infected" value="178264401"/>
+        </attvalues>
+        <color r="0" g="255" b="0"/>
+        <position x="154.50849718747372" y="150" z="475.52825814757676"/>
+      </node>
+      <node id="3" label="IN1.07">
+        <attvalues>
+          <attvalue for="type" value="room"/>
+          <attvalue for="infected" value="175278755"/>
+        </attvalues>
+        <color r="0" g="255" b="0"/>
+        <position x="-404.50849718747367" y="150" z="293.89262614623664"/>
+      </node>
+      <node id="4" label="IN1.08">
+        <attvalues>
+          <attvalue for="type" value="room"/>
+          <attvalue for="infected" value="177281473"/>
+        </attvalues>
+        <color r="0" g="255" b="0"/>
+        <position x="-404.5084971874737" y="150" z="-293.8926261462365"/>
+      </node>
+      <node id="5" label="IN1.09">
+        <attvalues>
+          <attvalue for="type" value="room"/>
+          <attvalue for="infected" value="178525278"/>
+        </attvalues>
+        <color r="0" g="255" b="0"/>
+        <position x="154.5084971874736" y="150" z="-475.5282581475768"/>
+      </node>
+      <node id="6" label="IN1.05_1">
+        <attvalues>
+          <attvalue for="type" value="computer"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="255" g="0" b="0"/>
+        <position x="700.0" y="0" z="0.0"/>
+      </node>
+      <node id="7" label="IN1.05_2">
+        <attvalues>
+          <attvalue for="type" value="computer"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="255" g="0" b="0"/>
+        <position x="682.7090915285202" y="0" z="81.34732861516002"/>
+      </node>
+      <node id="8" label="IN1.05_3">
+        <attvalues>
+          <attvalue for="type" value="computer"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="255" g="0" b="0"/>
+        <position x="633.8261212717716" y="0" z="148.62896509547883"/>
+      </node>
+      <node id="9" label="IN1.05_4">
+        <attvalues>
+          <attvalue for="type" value="computer"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="255" g="0" b="0"/>
+        <position x="561.8033988749895" y="0" z="190.2113032590307"/>
+      </node>
+      <node id="10" label="IN1.05_5">
+        <attvalues>
+          <attvalue for="type" value="computer"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="255" g="0" b="0"/>
+        <position x="479.09430734646935" y="0" z="198.90437907365467"/>
+      </node>
+      <node id="11" label="IN1.05_6">
+        <attvalues>
+          <attvalue for="type" value="computer"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="255" g="0" b="0"/>
+        <position x="400.00000000000006" y="0" z="173.20508075688775"/>
+      </node>
+      <node id="12" label="IN1.05_7">
+        <attvalues>
+          <attvalue for="type" value="computer"/>
+          <attvalue for="infected" value="179534841"/>
+        </attvalues>
+        <color r="255" g="0" b="0"/>
+        <position x="338.19660112501055" y="0" z="117.55705045849464"/>
+      </node>
+      <node id="13" label="IN1.05_8">
+        <attvalues>
+          <attvalue for="type" value="computer"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="255" g="0" b="0"/>
+        <position x="304.37047985323886" y="0" z="41.58233816355186"/>
+      </node>
+      <node id="14" label="IN1.05_9">
+        <attvalues>
+          <attvalue for="type" value="computer"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="255" g="0" b="0"/>
+        <position x="304.37047985323886" y="0" z="-41.58233816355181"/>
+      </node>
+      <node id="15" label="IN1.05_10">
+        <attvalues>
+          <attvalue for="type" value="computer"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="255" g="0" b="0"/>
+        <position x="338.1966011250105" y="0" z="-117.5570504584946"/>
+      </node>
+      <node id="16" label="IN1.05_11">
+        <attvalues>
+          <attvalue for="type" value="computer"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="255" g="0" b="0"/>
+        <position x="399.9999999999999" y="0" z="-173.2050807568877"/>
+      </node>
+      <node id="17" label="IN1.05_12">
+        <attvalues>
+          <attvalue for="type" value="computer"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="255" g="0" b="0"/>
+        <position x="479.0943073464692" y="0" z="-198.90437907365467"/>
+      </node>
+      <node id="18" label="IN1.05_13">
+        <attvalues>
+          <attvalue for="type" value="computer"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="255" g="0" b="0"/>
+        <position x="561.8033988749894" y="0" z="-190.21130325903073"/>
+      </node>
+      <node id="19" label="IN1.05_14">
+        <attvalues>
+          <attvalue for="type" value="computer"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="255" g="0" b="0"/>
+        <position x="633.8261212717716" y="0" z="-148.6289650954788"/>
+      </node>
+      <node id="20" label="IN1.05_15">
+        <attvalues>
+          <attvalue for="type" value="computer"/>
+          <attvalue for="infected" value="178334742"/>
+        </attvalues>
+        <color r="255" g="0" b="0"/>
+        <position x="682.7090915285202" y="0" z="-81.34732861516002"/>
+      </node>
+      <node id="21" label="IN1.06_1">
+        <attvalues>
+          <attvalue for="type" value="computer"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="255" g="0" b="0"/>
+        <position x="354.5084971874737" y="0" z="475.52825814757676"/>
+      </node>
+      <node id="22" label="IN1.06_2">
+        <attvalues>
+          <attvalue for="type" value="computer"/>
+          <attvalue for="infected" value="175329574"/>
+        </attvalues>
+        <color r="255" g="0" b="0"/>
+        <position x="337.2175887159939" y="0" z="556.8755867627368"/>
+      </node>
+      <node id="23" label="IN1.06_3">
+        <attvalues>
+          <attvalue for="type" value="computer"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="255" g="0" b="0"/>
+        <position x="288.33461845924535" y="0" z="624.1572232430556"/>
+      </node>
+      <node id="24" label="IN1.06_4">
+        <attvalues>
+          <attvalue for="type" value="computer"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="255" g="0" b="0"/>
+        <position x="216.3118960624632" y="0" z="665.7395614066074"/>
+      </node>
+      <node id="25" label="IN1.06_5">
+        <attvalues>
+          <attvalue for="type" value="computer"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="255" g="0" b="0"/>
+        <position x="133.60280453394304" y="0" z="674.4326372212314"/>
+      </node>
+      <node id="26" label="IN1.06_6">
+        <attvalues>
+          <attvalue for="type" value="computer"/>
+          <attvalue for="infected" value="177307160"/>
+        </attvalues>
+        <color r="255" g="0" b="0"/>
+        <position x="54.508497187473765" y="0" z="648.7333389044645"/>
+      </node>
+      <node id="27" label="IN1.06_7">
+        <attvalues>
+          <attvalue for="type" value="computer"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="255" g="0" b="0"/>
+        <position x="-7.294901687515733" y="0" z="593.0853086060714"/>
+      </node>
+      <node id="28" label="IN1.06_8">
+        <attvalues>
+          <attvalue for="type" value="computer"/>
+          <attvalue for="infected" value="175660977"/>
+        </attvalues>
+        <color r="255" g="0" b="0"/>
+        <position x="-41.121022959287416" y="0" z="517.1105963111286"/>
+      </node>
+      <node id="29" label="IN1.06_9">
+        <attvalues>
+          <attvalue for="type" value="computer"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="255" g="0" b="0"/>
+        <position x="-41.121022959287416" y="0" z="433.94591998402495"/>
+      </node>
+      <node id="30" label="IN1.06_10">
+        <attvalues>
+          <attvalue for="type" value="computer"/>
+          <attvalue for="infected" value="175709493"/>
+        </attvalues>
+        <color r="255" g="0" b="0"/>
+        <position x="-7.294901687515761" y="0" z="357.9712076890822"/>
+      </node>
+      <node id="31" label="IN1.06_11">
+        <attvalues>
+          <attvalue for="type" value="computer"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="255" g="0" b="0"/>
+        <position x="54.50849718747364" y="0" z="302.32317739068907"/>
+      </node>
+      <node id="32" label="IN1.06_12">
+        <attvalues>
+          <attvalue for="type" value="computer"/>
+          <attvalue for="infected" value="178893500"/>
+        </attvalues>
+        <color r="255" g="0" b="0"/>
+        <position x="133.60280453394287" y="0" z="276.6238790739221"/>
+      </node>
+      <node id="33" label="IN1.06_13">
+        <attvalues>
+          <attvalue for="type" value="computer"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="255" g="0" b="0"/>
+        <position x="216.31189606246318" y="0" z="285.31695488854604"/>
+      </node>
+      <node id="34" label="IN1.06_14">
+        <attvalues>
+          <attvalue for="type" value="computer"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="255" g="0" b="0"/>
+        <position x="288.3346184592454" y="0" z="326.89929305209796"/>
+      </node>
+      <node id="35" label="IN1.06_15">
+        <attvalues>
+          <attvalue for="type" value="computer"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="255" g="0" b="0"/>
+        <position x="337.2175887159939" y="0" z="394.1809295324167"/>
+      </node>
+      <node id="36" label="IN1.07_1">
+        <attvalues>
+          <attvalue for="type" value="computer"/>
+          <attvalue for="infected" value="179575782"/>
+        </attvalues>
+        <color r="255" g="0" b="0"/>
+        <position x="-204.50849718747367" y="0" z="293.89262614623664"/>
+      </node>
+      <node id="37" label="IN1.07_2">
+        <attvalues>
+          <attvalue for="type" value="computer"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="255" g="0" b="0"/>
+        <position x="-221.7994056589535" y="0" z="375.2399547613967"/>
+      </node>
+      <node id="38" label="IN1.07_3">
+        <attvalues>
+          <attvalue for="type" value="computer"/>
+          <attvalue for="infected" value="177184502"/>
+        </attvalues>
+        <color r="255" g="0" b="0"/>
+        <position x="-270.682375915702" y="0" z="442.52159124171544"/>
+      </node>
+      <node id="39" label="IN1.07_4">
+        <attvalues>
+          <attvalue for="type" value="computer"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="255" g="0" b="0"/>
+        <position x="-342.70509831248415" y="0" z="484.1039294052673"/>
+      </node>
+      <node id="40" label="IN1.07_5">
+        <attvalues>
+          <attvalue for="type" value="computer"/>
+          <attvalue for="infected" value="176663038"/>
+        </attvalues>
+        <color r="255" g="0" b="0"/>
+        <position x="-425.4141898410043" y="0" z="492.7970052198913"/>
+      </node>
+      <node id="41" label="IN1.07_6">
+        <attvalues>
+          <attvalue for="type" value="computer"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="255" g="0" b="0"/>
+        <position x="-504.5084971874736" y="0" z="467.0977069031244"/>
+      </node>
+      <node id="42" label="IN1.07_7">
+        <attvalues>
+          <attvalue for="type" value="computer"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="255" g="0" b="0"/>
+        <position x="-566.3118960624631" y="0" z="411.4496766047313"/>
+      </node>
+      <node id="43" label="IN1.07_8">
+        <attvalues>
+          <attvalue for="type" value="computer"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="255" g="0" b="0"/>
+        <position x="-600.1380173342347" y="0" z="335.4749643097885"/>
+      </node>
+      <node id="44" label="IN1.07_9">
+        <attvalues>
+          <attvalue for="type" value="computer"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="255" g="0" b="0"/>
+        <position x="-600.1380173342347" y="0" z="252.31028798268483"/>
+      </node>
+      <node id="45" label="IN1.07_10">
+        <attvalues>
+          <attvalue for="type" value="computer"/>
+          <attvalue for="infected" value="178121244"/>
+        </attvalues>
+        <color r="255" g="0" b="0"/>
+        <position x="-566.3118960624631" y="0" z="176.33557568774205"/>
+      </node>
+      <node id="46" label="IN1.07_11">
+        <attvalues>
+          <attvalue for="type" value="computer"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="255" g="0" b="0"/>
+        <position x="-504.5084971874737" y="0" z="120.68754538934894"/>
+      </node>
+      <node id="47" label="IN1.07_12">
+        <attvalues>
+          <attvalue for="type" value="computer"/>
+          <attvalue for="infected" value="178696159"/>
+        </attvalues>
+        <color r="255" g="0" b="0"/>
+        <position x="-425.4141898410045" y="0" z="94.98824707258197"/>
+      </node>
+      <node id="48" label="IN1.07_13">
+        <attvalues>
+          <attvalue for="type" value="computer"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="255" g="0" b="0"/>
+        <position x="-342.7050983124842" y="0" z="103.68132288720591"/>
+      </node>
+      <node id="49" label="IN1.07_14">
+        <attvalues>
+          <attvalue for="type" value="computer"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="255" g="0" b="0"/>
+        <position x="-270.682375915702" y="0" z="145.26366105075783"/>
+      </node>
+      <node id="50" label="IN1.07_15">
+        <attvalues>
+          <attvalue for="type" value="computer"/>
+          <attvalue for="infected" value="177687090"/>
+        </attvalues>
+        <color r="255" g="0" b="0"/>
+        <position x="-221.79940565895348" y="0" z="212.5452975310766"/>
+      </node>
+      <node id="51" label="IN1.08_1">
+        <attvalues>
+          <attvalue for="type" value="computer"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="255" g="0" b="0"/>
+        <position x="-204.50849718747372" y="0" z="-293.8926261462365"/>
+      </node>
+      <node id="52" label="IN1.08_2">
+        <attvalues>
+          <attvalue for="type" value="computer"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="255" g="0" b="0"/>
+        <position x="-221.79940565895356" y="0" z="-212.5452975310765"/>
+      </node>
+      <node id="53" label="IN1.08_3">
+        <attvalues>
+          <attvalue for="type" value="computer"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="255" g="0" b="0"/>
+        <position x="-270.6823759157021" y="0" z="-145.2636610507577"/>
+      </node>
+      <node id="54" label="IN1.08_4">
+        <attvalues>
+          <attvalue for="type" value="computer"/>
+          <attvalue for="infected" value="176028555"/>
+        </attvalues>
+        <color r="255" g="0" b="0"/>
+        <position x="-342.7050983124842" y="0" z="-103.68132288720582"/>
+      </node>
+      <node id="55" label="IN1.08_5">
+        <attvalues>
+          <attvalue for="type" value="computer"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="255" g="0" b="0"/>
+        <position x="-425.4141898410044" y="0" z="-94.98824707258186"/>
+      </node>
+      <node id="56" label="IN1.08_6">
+        <attvalues>
+          <attvalue for="type" value="computer"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="255" g="0" b="0"/>
+        <position x="-504.50849718747367" y="0" z="-120.68754538934877"/>
+      </node>
+      <node id="57" label="IN1.08_7">
+        <attvalues>
+          <attvalue for="type" value="computer"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="255" g="0" b="0"/>
+        <position x="-566.3118960624631" y="0" z="-176.33557568774188"/>
+      </node>
+      <node id="58" label="IN1.08_8">
+        <attvalues>
+          <attvalue for="type" value="computer"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="255" g="0" b="0"/>
+        <position x="-600.1380173342349" y="0" z="-252.31028798268466"/>
+      </node>
+      <node id="59" label="IN1.08_9">
+        <attvalues>
+          <attvalue for="type" value="computer"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="255" g="0" b="0"/>
+        <position x="-600.1380173342349" y="0" z="-335.47496430978833"/>
+      </node>
+      <node id="60" label="IN1.08_10">
+        <attvalues>
+          <attvalue for="type" value="computer"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="255" g="0" b="0"/>
+        <position x="-566.3118960624632" y="0" z="-411.4496766047311"/>
+      </node>
+      <node id="61" label="IN1.08_11">
+        <attvalues>
+          <attvalue for="type" value="computer"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="255" g="0" b="0"/>
+        <position x="-504.50849718747384" y="0" z="-467.0977069031242"/>
+      </node>
+      <node id="62" label="IN1.08_12">
+        <attvalues>
+          <attvalue for="type" value="computer"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="255" g="0" b="0"/>
+        <position x="-425.41418984100454" y="0" z="-492.79700521989116"/>
+      </node>
+      <node id="63" label="IN1.08_13">
+        <attvalues>
+          <attvalue for="type" value="computer"/>
+          <attvalue for="infected" value="178265561"/>
+        </attvalues>
+        <color r="255" g="0" b="0"/>
+        <position x="-342.70509831248427" y="0" z="-484.10392940526725"/>
+      </node>
+      <node id="64" label="IN1.08_14">
+        <attvalues>
+          <attvalue for="type" value="computer"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="255" g="0" b="0"/>
+        <position x="-270.68237591570204" y="0" z="-442.5215912417153"/>
+      </node>
+      <node id="65" label="IN1.08_15">
+        <attvalues>
+          <attvalue for="type" value="computer"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="255" g="0" b="0"/>
+        <position x="-221.79940565895353" y="0" z="-375.2399547613966"/>
+      </node>
+      <node id="66" label="IN1.09_1">
+        <attvalues>
+          <attvalue for="type" value="computer"/>
+          <attvalue for="infected" value="175519713"/>
+        </attvalues>
+        <color r="255" g="0" b="0"/>
+        <position x="354.5084971874736" y="0" z="-475.5282581475768"/>
+      </node>
+      <node id="67" label="IN1.09_2">
+        <attvalues>
+          <attvalue for="type" value="computer"/>
+          <attvalue for="infected" value="177977165"/>
+        </attvalues>
+        <color r="255" g="0" b="0"/>
+        <position x="337.21758871599377" y="0" z="-394.1809295324168"/>
+      </node>
+      <node id="68" label="IN1.09_3">
+        <attvalues>
+          <attvalue for="type" value="computer"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="255" g="0" b="0"/>
+        <position x="288.33461845924523" y="0" z="-326.89929305209796"/>
+      </node>
+      <node id="69" label="IN1.09_4">
+        <attvalues>
+          <attvalue for="type" value="computer"/>
+          <attvalue for="infected" value="179464826"/>
+        </attvalues>
+        <color r="255" g="0" b="0"/>
+        <position x="216.3118960624631" y="0" z="-285.3169548885461"/>
+      </node>
+      <node id="70" label="IN1.09_5">
+        <attvalues>
+          <attvalue for="type" value="computer"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="255" g="0" b="0"/>
+        <position x="133.60280453394293" y="0" z="-276.6238790739221"/>
+      </node>
+      <node id="71" label="IN1.09_6">
+        <attvalues>
+          <attvalue for="type" value="computer"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="255" g="0" b="0"/>
+        <position x="54.50849718747365" y="0" z="-302.32317739068907"/>
+      </node>
+      <node id="72" label="IN1.09_7">
+        <attvalues>
+          <attvalue for="type" value="computer"/>
+          <attvalue for="infected" value="175921351"/>
+        </attvalues>
+        <color r="255" g="0" b="0"/>
+        <position x="-7.294901687515846" y="0" z="-357.9712076890822"/>
+      </node>
+      <node id="73" label="IN1.09_8">
+        <attvalues>
+          <attvalue for="type" value="computer"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="255" g="0" b="0"/>
+        <position x="-41.12102295928753" y="0" z="-433.94591998402495"/>
+      </node>
+      <node id="74" label="IN1.09_9">
+        <attvalues>
+          <attvalue for="type" value="computer"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="255" g="0" b="0"/>
+        <position x="-41.12102295928753" y="0" z="-517.1105963111286"/>
+      </node>
+      <node id="75" label="IN1.09_10">
+        <attvalues>
+          <attvalue for="type" value="computer"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="255" g="0" b="0"/>
+        <position x="-7.294901687515875" y="0" z="-593.0853086060714"/>
+      </node>
+      <node id="76" label="IN1.09_11">
+        <attvalues>
+          <attvalue for="type" value="computer"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="255" g="0" b="0"/>
+        <position x="54.50849718747352" y="0" z="-648.7333389044645"/>
+      </node>
+      <node id="77" label="IN1.09_12">
+        <attvalues>
+          <attvalue for="type" value="computer"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="255" g="0" b="0"/>
+        <position x="133.60280453394276" y="0" z="-674.4326372212315"/>
+      </node>
+      <node id="78" label="IN1.09_13">
+        <attvalues>
+          <attvalue for="type" value="computer"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="255" g="0" b="0"/>
+        <position x="216.31189606246306" y="0" z="-665.7395614066075"/>
+      </node>
+      <node id="79" label="IN1.09_14">
+        <attvalues>
+          <attvalue for="type" value="computer"/>
+          <attvalue for="infected" value="177232513"/>
+        </attvalues>
+        <color r="255" g="0" b="0"/>
+        <position x="288.3346184592453" y="0" z="-624.1572232430556"/>
+      </node>
+      <node id="80" label="IN1.09_15">
+        <attvalues>
+          <attvalue for="type" value="computer"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="255" g="0" b="0"/>
+        <position x="337.21758871599377" y="0" z="-556.8755867627368"/>
+      </node>
+      <node id="81" label="p0000000">
+        <attvalues>
+          <attvalue for="type" value="pupil"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="0" g="0" b="255"/>
+        <position x="700.0" y="-150" z="0.0"/>
+      </node>
+      <node id="82" label="p0000001">
+        <attvalues>
+          <attvalue for="type" value="pupil"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="0" g="0" b="255"/>
+        <position x="682.7090915285202" y="-150" z="81.34732861516002"/>
+      </node>
+      <node id="83" label="p0000002">
+        <attvalues>
+          <attvalue for="type" value="pupil"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="0" g="0" b="255"/>
+        <position x="633.8261212717716" y="-150" z="148.62896509547883"/>
+      </node>
+      <node id="84" label="p0000003">
+        <attvalues>
+          <attvalue for="type" value="pupil"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="0" g="0" b="255"/>
+        <position x="561.8033988749895" y="-150" z="190.2113032590307"/>
+      </node>
+      <node id="85" label="p0000004">
+        <attvalues>
+          <attvalue for="type" value="pupil"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="0" g="0" b="255"/>
+        <position x="479.09430734646935" y="-150" z="198.90437907365467"/>
+      </node>
+      <node id="86" label="p0000005">
+        <attvalues>
+          <attvalue for="type" value="pupil"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="0" g="0" b="255"/>
+        <position x="400.00000000000006" y="-150" z="173.20508075688775"/>
+      </node>
+      <node id="87" label="p0000006">
+        <attvalues>
+          <attvalue for="type" value="pupil"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="0" g="0" b="255"/>
+        <position x="338.19660112501055" y="-150" z="117.55705045849464"/>
+      </node>
+      <node id="88" label="p0000007">
+        <attvalues>
+          <attvalue for="type" value="pupil"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="0" g="0" b="255"/>
+        <position x="304.37047985323886" y="-150" z="41.58233816355186"/>
+      </node>
+      <node id="89" label="p0000008">
+        <attvalues>
+          <attvalue for="type" value="pupil"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="0" g="0" b="255"/>
+        <position x="304.37047985323886" y="-150" z="-41.58233816355181"/>
+      </node>
+      <node id="90" label="p0000009">
+        <attvalues>
+          <attvalue for="type" value="pupil"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="0" g="0" b="255"/>
+        <position x="338.1966011250105" y="-150" z="-117.5570504584946"/>
+      </node>
+      <node id="91" label="p0000010">
+        <attvalues>
+          <attvalue for="type" value="pupil"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="0" g="0" b="255"/>
+        <position x="399.9999999999999" y="-150" z="-173.2050807568877"/>
+      </node>
+      <node id="92" label="p0000011">
+        <attvalues>
+          <attvalue for="type" value="pupil"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="0" g="0" b="255"/>
+        <position x="479.0943073464692" y="-150" z="-198.90437907365467"/>
+      </node>
+      <node id="93" label="p0000012">
+        <attvalues>
+          <attvalue for="type" value="pupil"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="0" g="0" b="255"/>
+        <position x="561.8033988749894" y="-150" z="-190.21130325903073"/>
+      </node>
+      <node id="94" label="p0000013">
+        <attvalues>
+          <attvalue for="type" value="pupil"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="0" g="0" b="255"/>
+        <position x="633.8261212717716" y="-150" z="-148.6289650954788"/>
+      </node>
+      <node id="95" label="p0000014">
+        <attvalues>
+          <attvalue for="type" value="pupil"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="0" g="0" b="255"/>
+        <position x="682.7090915285202" y="-150" z="-81.34732861516002"/>
+      </node>
+      <node id="96" label="p0000015">
+        <attvalues>
+          <attvalue for="type" value="pupil"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="0" g="0" b="255"/>
+        <position x="354.5084971874737" y="-150" z="475.52825814757676"/>
+      </node>
+      <node id="97" label="p0000016">
+        <attvalues>
+          <attvalue for="type" value="pupil"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="0" g="0" b="255"/>
+        <position x="337.2175887159939" y="-150" z="556.8755867627368"/>
+      </node>
+      <node id="98" label="p0000017">
+        <attvalues>
+          <attvalue for="type" value="pupil"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="0" g="0" b="255"/>
+        <position x="288.33461845924535" y="-150" z="624.1572232430556"/>
+      </node>
+      <node id="99" label="p0000018">
+        <attvalues>
+          <attvalue for="type" value="pupil"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="0" g="0" b="255"/>
+        <position x="216.3118960624632" y="-150" z="665.7395614066074"/>
+      </node>
+      <node id="100" label="p0000019">
+        <attvalues>
+          <attvalue for="type" value="pupil"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="0" g="0" b="255"/>
+        <position x="133.60280453394304" y="-150" z="674.4326372212314"/>
+      </node>
+      <node id="101" label="p0000020">
+        <attvalues>
+          <attvalue for="type" value="pupil"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="0" g="0" b="255"/>
+        <position x="54.508497187473765" y="-150" z="648.7333389044645"/>
+      </node>
+      <node id="102" label="p0000021">
+        <attvalues>
+          <attvalue for="type" value="pupil"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="0" g="0" b="255"/>
+        <position x="-7.294901687515733" y="-150" z="593.0853086060714"/>
+      </node>
+      <node id="103" label="p0000022">
+        <attvalues>
+          <attvalue for="type" value="pupil"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="0" g="0" b="255"/>
+        <position x="-41.121022959287416" y="-150" z="517.1105963111286"/>
+      </node>
+      <node id="104" label="p0000023">
+        <attvalues>
+          <attvalue for="type" value="pupil"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="0" g="0" b="255"/>
+        <position x="-41.121022959287416" y="-150" z="433.94591998402495"/>
+      </node>
+      <node id="105" label="p0000024">
+        <attvalues>
+          <attvalue for="type" value="pupil"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="0" g="0" b="255"/>
+        <position x="-7.294901687515761" y="-150" z="357.9712076890822"/>
+      </node>
+      <node id="106" label="p0000025">
+        <attvalues>
+          <attvalue for="type" value="pupil"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="0" g="0" b="255"/>
+        <position x="54.50849718747364" y="-150" z="302.32317739068907"/>
+      </node>
+      <node id="107" label="p0000026">
+        <attvalues>
+          <attvalue for="type" value="pupil"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="0" g="0" b="255"/>
+        <position x="133.60280453394287" y="-150" z="276.6238790739221"/>
+      </node>
+      <node id="108" label="p0000027">
+        <attvalues>
+          <attvalue for="type" value="pupil"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="0" g="0" b="255"/>
+        <position x="216.31189606246318" y="-150" z="285.31695488854604"/>
+      </node>
+      <node id="109" label="p0000028">
+        <attvalues>
+          <attvalue for="type" value="pupil"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="0" g="0" b="255"/>
+        <position x="288.3346184592454" y="-150" z="326.89929305209796"/>
+      </node>
+      <node id="110" label="p0000029">
+        <attvalues>
+          <attvalue for="type" value="pupil"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="0" g="0" b="255"/>
+        <position x="337.2175887159939" y="-150" z="394.1809295324167"/>
+      </node>
+      <node id="111" label="p0000030">
+        <attvalues>
+          <attvalue for="type" value="pupil"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="0" g="0" b="255"/>
+        <position x="-204.50849718747367" y="-150" z="293.89262614623664"/>
+      </node>
+      <node id="112" label="p0000031">
+        <attvalues>
+          <attvalue for="type" value="pupil"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="0" g="0" b="255"/>
+        <position x="-221.7994056589535" y="-150" z="375.2399547613967"/>
+      </node>
+      <node id="113" label="p0000032">
+        <attvalues>
+          <attvalue for="type" value="pupil"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="0" g="0" b="255"/>
+        <position x="-270.682375915702" y="-150" z="442.52159124171544"/>
+      </node>
+      <node id="114" label="p0000033">
+        <attvalues>
+          <attvalue for="type" value="pupil"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="0" g="0" b="255"/>
+        <position x="-342.70509831248415" y="-150" z="484.1039294052673"/>
+      </node>
+      <node id="115" label="p0000034">
+        <attvalues>
+          <attvalue for="type" value="pupil"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="0" g="0" b="255"/>
+        <position x="-425.4141898410043" y="-150" z="492.7970052198913"/>
+      </node>
+      <node id="116" label="p0000035">
+        <attvalues>
+          <attvalue for="type" value="pupil"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="0" g="0" b="255"/>
+        <position x="-504.5084971874736" y="-150" z="467.0977069031244"/>
+      </node>
+      <node id="117" label="p0000036">
+        <attvalues>
+          <attvalue for="type" value="pupil"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="0" g="0" b="255"/>
+        <position x="-566.3118960624631" y="-150" z="411.4496766047313"/>
+      </node>
+      <node id="118" label="p0000037">
+        <attvalues>
+          <attvalue for="type" value="pupil"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="0" g="0" b="255"/>
+        <position x="-600.1380173342347" y="-150" z="335.4749643097885"/>
+      </node>
+      <node id="119" label="p0000038">
+        <attvalues>
+          <attvalue for="type" value="pupil"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="0" g="0" b="255"/>
+        <position x="-600.1380173342347" y="-150" z="252.31028798268483"/>
+      </node>
+      <node id="120" label="p0000039">
+        <attvalues>
+          <attvalue for="type" value="pupil"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="0" g="0" b="255"/>
+        <position x="-566.3118960624631" y="-150" z="176.33557568774205"/>
+      </node>
+      <node id="121" label="p0000040">
+        <attvalues>
+          <attvalue for="type" value="pupil"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="0" g="0" b="255"/>
+        <position x="-504.5084971874737" y="-150" z="120.68754538934894"/>
+      </node>
+      <node id="122" label="p0000041">
+        <attvalues>
+          <attvalue for="type" value="pupil"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="0" g="0" b="255"/>
+        <position x="-425.4141898410045" y="-150" z="94.98824707258197"/>
+      </node>
+      <node id="123" label="p0000042">
+        <attvalues>
+          <attvalue for="type" value="pupil"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="0" g="0" b="255"/>
+        <position x="-342.7050983124842" y="-150" z="103.68132288720591"/>
+      </node>
+      <node id="124" label="p0000043">
+        <attvalues>
+          <attvalue for="type" value="pupil"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="0" g="0" b="255"/>
+        <position x="-270.682375915702" y="-150" z="145.26366105075783"/>
+      </node>
+      <node id="125" label="p0000044">
+        <attvalues>
+          <attvalue for="type" value="pupil"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="0" g="0" b="255"/>
+        <position x="-221.79940565895348" y="-150" z="212.5452975310766"/>
+      </node>
+      <node id="126" label="p0000045">
+        <attvalues>
+          <attvalue for="type" value="pupil"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="0" g="0" b="255"/>
+        <position x="-204.50849718747372" y="-150" z="-293.8926261462365"/>
+      </node>
+      <node id="127" label="p0000046">
+        <attvalues>
+          <attvalue for="type" value="pupil"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="0" g="0" b="255"/>
+        <position x="-221.79940565895356" y="-150" z="-212.5452975310765"/>
+      </node>
+      <node id="128" label="p0000047">
+        <attvalues>
+          <attvalue for="type" value="pupil"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="0" g="0" b="255"/>
+        <position x="-270.6823759157021" y="-150" z="-145.2636610507577"/>
+      </node>
+      <node id="129" label="p0000048">
+        <attvalues>
+          <attvalue for="type" value="pupil"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="0" g="0" b="255"/>
+        <position x="-342.7050983124842" y="-150" z="-103.68132288720582"/>
+      </node>
+      <node id="130" label="p0000049">
+        <attvalues>
+          <attvalue for="type" value="pupil"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="0" g="0" b="255"/>
+        <position x="-425.4141898410044" y="-150" z="-94.98824707258186"/>
+      </node>
+      <node id="131" label="p0000050">
+        <attvalues>
+          <attvalue for="type" value="pupil"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="0" g="0" b="255"/>
+        <position x="-504.50849718747367" y="-150" z="-120.68754538934877"/>
+      </node>
+      <node id="132" label="p0000051">
+        <attvalues>
+          <attvalue for="type" value="pupil"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="0" g="0" b="255"/>
+        <position x="-566.3118960624631" y="-150" z="-176.33557568774188"/>
+      </node>
+      <node id="133" label="p0000052">
+        <attvalues>
+          <attvalue for="type" value="pupil"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="0" g="0" b="255"/>
+        <position x="-600.1380173342349" y="-150" z="-252.31028798268466"/>
+      </node>
+      <node id="134" label="p0000053">
+        <attvalues>
+          <attvalue for="type" value="pupil"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="0" g="0" b="255"/>
+        <position x="-600.1380173342349" y="-150" z="-335.47496430978833"/>
+      </node>
+      <node id="135" label="p0000054">
+        <attvalues>
+          <attvalue for="type" value="pupil"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="0" g="0" b="255"/>
+        <position x="-566.3118960624632" y="-150" z="-411.4496766047311"/>
+      </node>
+      <node id="136" label="p0000055">
+        <attvalues>
+          <attvalue for="type" value="pupil"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="0" g="0" b="255"/>
+        <position x="-504.50849718747384" y="-150" z="-467.0977069031242"/>
+      </node>
+      <node id="137" label="p0000056">
+        <attvalues>
+          <attvalue for="type" value="pupil"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="0" g="0" b="255"/>
+        <position x="-425.41418984100454" y="-150" z="-492.79700521989116"/>
+      </node>
+      <node id="138" label="p0000057">
+        <attvalues>
+          <attvalue for="type" value="pupil"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="0" g="0" b="255"/>
+        <position x="-342.70509831248427" y="-150" z="-484.10392940526725"/>
+      </node>
+      <node id="139" label="p0000058">
+        <attvalues>
+          <attvalue for="type" value="pupil"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="0" g="0" b="255"/>
+        <position x="-270.68237591570204" y="-150" z="-442.5215912417153"/>
+      </node>
+      <node id="140" label="p0000059">
+        <attvalues>
+          <attvalue for="type" value="pupil"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="0" g="0" b="255"/>
+        <position x="-221.79940565895353" y="-150" z="-375.2399547613966"/>
+      </node>
+      <node id="141" label="p0000060">
+        <attvalues>
+          <attvalue for="type" value="pupil"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="0" g="0" b="255"/>
+        <position x="354.5084971874736" y="-150" z="-475.5282581475768"/>
+      </node>
+      <node id="142" label="p0000061">
+        <attvalues>
+          <attvalue for="type" value="pupil"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="0" g="0" b="255"/>
+        <position x="337.21758871599377" y="-150" z="-394.1809295324168"/>
+      </node>
+      <node id="143" label="p0000062">
+        <attvalues>
+          <attvalue for="type" value="pupil"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="0" g="0" b="255"/>
+        <position x="288.33461845924523" y="-150" z="-326.89929305209796"/>
+      </node>
+      <node id="144" label="p0000063">
+        <attvalues>
+          <attvalue for="type" value="pupil"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="0" g="0" b="255"/>
+        <position x="216.3118960624631" y="-150" z="-285.3169548885461"/>
+      </node>
+      <node id="145" label="p0000064">
+        <attvalues>
+          <attvalue for="type" value="pupil"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="0" g="0" b="255"/>
+        <position x="133.60280453394293" y="-150" z="-276.6238790739221"/>
+      </node>
+      <node id="146" label="p0000065">
+        <attvalues>
+          <attvalue for="type" value="pupil"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="0" g="0" b="255"/>
+        <position x="54.50849718747365" y="-150" z="-302.32317739068907"/>
+      </node>
+      <node id="147" label="p0000066">
+        <attvalues>
+          <attvalue for="type" value="pupil"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="0" g="0" b="255"/>
+        <position x="-7.294901687515846" y="-150" z="-357.9712076890822"/>
+      </node>
+      <node id="148" label="p0000067">
+        <attvalues>
+          <attvalue for="type" value="pupil"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="0" g="0" b="255"/>
+        <position x="-41.12102295928753" y="-150" z="-433.94591998402495"/>
+      </node>
+      <node id="149" label="p0000068">
+        <attvalues>
+          <attvalue for="type" value="pupil"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="0" g="0" b="255"/>
+        <position x="-41.12102295928753" y="-150" z="-517.1105963111286"/>
+      </node>
+      <node id="150" label="p0000069">
+        <attvalues>
+          <attvalue for="type" value="pupil"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="0" g="0" b="255"/>
+        <position x="-7.294901687515875" y="-150" z="-593.0853086060714"/>
+      </node>
+      <node id="151" label="p0000070">
+        <attvalues>
+          <attvalue for="type" value="pupil"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="0" g="0" b="255"/>
+        <position x="54.50849718747352" y="-150" z="-648.7333389044645"/>
+      </node>
+      <node id="152" label="p0000071">
+        <attvalues>
+          <attvalue for="type" value="pupil"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="0" g="0" b="255"/>
+        <position x="133.60280453394276" y="-150" z="-674.4326372212315"/>
+      </node>
+      <node id="153" label="p0000072">
+        <attvalues>
+          <attvalue for="type" value="pupil"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="0" g="0" b="255"/>
+        <position x="216.31189606246306" y="-150" z="-665.7395614066075"/>
+      </node>
+      <node id="154" label="p0000073">
+        <attvalues>
+          <attvalue for="type" value="pupil"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="0" g="0" b="255"/>
+        <position x="288.3346184592453" y="-150" z="-624.1572232430556"/>
+      </node>
+      <node id="155" label="p0000074">
+        <attvalues>
+          <attvalue for="type" value="pupil"/>
+          <attvalue for="infected" value="0"/>
+        </attvalues>
+        <color r="0" g="0" b="255"/>
+        <position x="337.21758871599377" y="-150" z="-556.8755867627368"/>
+      </node>
+    </nodes>
+    <edges count="150">
+      <edge source="6" target="1"/>
+      <edge source="7" target="1"/>
+      <edge source="8" target="1"/>
+      <edge source="9" target="1"/>
+      <edge source="10" target="1"/>
+      <edge source="11" target="1"/>
+      <edge source="12" target="1"/>
+      <edge source="13" target="1"/>
+      <edge source="14" target="1"/>
+      <edge source="15" target="1"/>
+      <edge source="16" target="1"/>
+      <edge source="17" target="1"/>
+      <edge source="18" target="1"/>
+      <edge source="19" target="1"/>
+      <edge source="20" target="1"/>
+      <edge source="21" target="2"/>
+      <edge source="22" target="2"/>
+      <edge source="23" target="2"/>
+      <edge source="24" target="2"/>
+      <edge source="25" target="2"/>
+      <edge source="26" target="2"/>
+      <edge source="27" target="2"/>
+      <edge source="28" target="2"/>
+      <edge source="29" target="2"/>
+      <edge source="30" target="2"/>
+      <edge source="31" target="2"/>
+      <edge source="32" target="2"/>
+      <edge source="33" target="2"/>
+      <edge source="34" target="2"/>
+      <edge source="35" target="2"/>
+      <edge source="36" target="3"/>
+      <edge source="37" target="3"/>
+      <edge source="38" target="3"/>
+      <edge source="39" target="3"/>
+      <edge source="40" target="3"/>
+      <edge source="41" target="3"/>
+      <edge source="42" target="3"/>
+      <edge source="43" target="3"/>
+      <edge source="44" target="3"/>
+      <edge source="45" target="3"/>
+      <edge source="46" target="3"/>
+      <edge source="47" target="3"/>
+      <edge source="48" target="3"/>
+      <edge source="49" target="3"/>
+      <edge source="50" target="3"/>
+      <edge source="51" target="4"/>
+      <edge source="52" target="4"/>
+      <edge source="53" target="4"/>
+      <edge source="54" target="4"/>
+      <edge source="55" target="4"/>
+      <edge source="56" target="4"/>
+      <edge source="57" target="4"/>
+      <edge source="58" target="4"/>
+      <edge source="59" target="4"/>
+      <edge source="60" target="4"/>
+      <edge source="61" target="4"/>
+      <edge source="62" target="4"/>
+      <edge source="63" target="4"/>
+      <edge source="64" target="4"/>
+      <edge source="65" target="4"/>
+      <edge source="66" target="5"/>
+      <edge source="67" target="5"/>
+      <edge source="68" target="5"/>
+      <edge source="69" target="5"/>
+      <edge source="70" target="5"/>
+      <edge source="71" target="5"/>
+      <edge source="72" target="5"/>
+      <edge source="73" target="5"/>
+      <edge source="74" target="5"/>
+      <edge source="75" target="5"/>
+      <edge source="76" target="5"/>
+      <edge source="77" target="5"/>
+      <edge source="78" target="5"/>
+      <edge source="79" target="5"/>
+      <edge source="80" target="5"/>
+      <edge source="81" target="6"/>
+      <edge source="82" target="7"/>
+      <edge source="83" target="8"/>
+      <edge source="84" target="9"/>
+      <edge source="85" target="10"/>
+      <edge source="86" target="11"/>
+      <edge source="87" target="12"/>
+      <edge source="88" target="13"/>
+      <edge source="89" target="14"/>
+      <edge source="90" target="15"/>
+      <edge source="91" target="16"/>
+      <edge source="92" target="17"/>
+      <edge source="93" target="18"/>
+      <edge source="94" target="19"/>
+      <edge source="95" target="20"/>
+      <edge source="96" target="21"/>
+      <edge source="97" target="22"/>
+      <edge source="98" target="23"/>
+      <edge source="99" target="24"/>
+      <edge source="100" target="25"/>
+      <edge source="101" target="26"/>
+      <edge source="102" target="27"/>
+      <edge source="103" target="28"/>
+      <edge source="104" target="29"/>
+      <edge source="105" target="30"/>
+      <edge source="106" target="31"/>
+      <edge source="107" target="32"/>
+      <edge source="108" target="33"/>
+      <edge source="109" target="34"/>
+      <edge source="110" target="35"/>
+      <edge source="111" target="36"/>
+      <edge source="112" target="37"/>
+      <edge source="113" target="38"/>
+      <edge source="114" target="39"/>
+      <edge source="115" target="40"/>
+      <edge source="116" target="41"/>
+      <edge source="117" target="42"/>
+      <edge source="118" target="43"/>
+      <edge source="119" target="44"/>
+      <edge source="120" target="45"/>
+      <edge source="121" target="46"/>
+      <edge source="122" target="47"/>
+      <edge source="123" target="48"/>
+      <edge source="124" target="49"/>
+      <edge source="125" target="50"/>
+      <edge source="126" target="51"/>
+      <edge source="127" target="52"/>
+      <edge source="128" target="53"/>
+      <edge source="129" target="54"/>
+      <edge source="130" target="55"/>
+      <edge source="131" target="56"/>
+      <edge source="132" target="57"/>
+      <edge source="133" target="58"/>
+      <edge source="134" target="59"/>
+      <edge source="135" target="60"/>
+      <edge source="136" target="61"/>
+      <edge source="137" target="62"/>
+      <edge source="138" target="63"/>
+      <edge source="139" target="64"/>
+      <edge source="140" target="65"/>
+      <edge source="141" target="66"/>
+      <edge source="142" target="67"/>
+      <edge source="143" target="68"/>
+      <edge source="144" target="69"/>
+      <edge source="145" target="70"/>
+      <edge source="146" target="71"/>
+      <edge source="147" target="72"/>
+      <edge source="148" target="73"/>
+      <edge source="149" target="74"/>
+      <edge source="150" target="75"/>
+      <edge source="151" target="76"/>
+      <edge source="152" target="77"/>
+      <edge source="153" target="78"/>
+      <edge source="154" target="79"/>
+      <edge source="155" target="80"/>
+    </edges>
+  </graph>
+</gexf>
