@@ -73,4 +73,9 @@ Tous les composants ont un style par défaut, qui sont définis en haut de chaqu
 
 # Bon courage 😉
 
-En cas de besoin, discord jonatanbien / mail jonathan.ollivier@etu.univ-lyon1.fr
+En cas de besoin, 
+discord jonatanbien / mail jonathan.ollivier@etu.univ-lyon1.fr
+
+mail amaury.menneret@etu.univ-lyon1.fr
+
+mail lucas.devanlay@etu.univ-lyon1.fr
